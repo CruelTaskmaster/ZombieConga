@@ -1,0 +1,20 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660 Ti (ID=0x1183)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\school work\Year 2\Unity\Zombie\ZombieConga\ZombieConga\Zombieconga_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\school work\Year 2\Unity\Zombie\ZombieConga\ZombieConga\Zombieconga_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\school work\Year 2\Unity\Zombie\ZombieConga\ZombieConga\Zombieconga_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\school work\Year 2\Unity\Zombie\ZombieConga\ZombieConga\Zombieconga_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\school work\Year 2\Unity\Zombie\ZombieConga\ZombieConga\Zombieconga_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\school work\Year 2\Unity\Zombie\ZombieConga\ZombieConga\Zombieconga_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\school work\Year 2\Unity\Zombie\ZombieConga\ZombieConga\Zombieconga_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\school work\Year 2\Unity\Zombie\ZombieConga\ZombieConga\Zombieconga_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.102 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
